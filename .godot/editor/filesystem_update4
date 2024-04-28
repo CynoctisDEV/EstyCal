@@ -1,0 +1,4 @@
+res://SCENES/main.tscn
+res://DATA/number.stylebox
+res://DATA/operation.stylebox
+res://SCRIPTS/main.gd

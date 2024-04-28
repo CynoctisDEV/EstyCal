@@ -1,0 +1,13 @@
+AudioStreamPlayer
+Label
+Camera2D
+CanvasLayer
+AnimatedSprite2D
+Control
+AnimationPlayer
+Panel
+Button
+TextureButton
+TextureRect
+ColorRect
+Node
